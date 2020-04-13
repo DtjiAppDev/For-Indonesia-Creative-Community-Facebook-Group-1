@@ -17,3 +17,5 @@ can be downloaded and run on your PC. To see how to use the application, read th
 2. UEFA Champions League Round of 16 Draw -> go to "UEFA Champions League Round of 16 Draw" folder in this repository and the file
 "ucl_r16_draw.exe" can be downloaded and run on you PC. To see how to use the application, read the file "User Guide.pdf" in
 "UEFA Champions League Round of 16 Draw" folder.
+3. Guess Number -> go to "Guess Number" folder in this repository and the file "guess_number.exe" can be downloaded and run on your PC.
+To see how to use the application, read the file "User Guide.pdf" in "Guess Number" folder.
