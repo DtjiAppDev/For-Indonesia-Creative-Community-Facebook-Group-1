@@ -3,8 +3,8 @@ This repository contains all the files I created for contributing to "Indonesia 
 Link to Facebook group: https://www.facebook.com/groups/indonesiaCreativeCommunity/
 
 Important information for users:
-1. Each folder in this repository represents one type of creation I created. So, "Software Applications" folder contains all software
-applications I developed where one folder in that folder represents one software application I developed.
+1. Each folder in this repository represents one type of creation I created and all creations for that type. So, "Software Applications" 
+folder contains all software applications I developed where one folder in that folder represents one software application I developed.
 2. Each folder in "Software Applications" folder inthis repository has an executable file (e.g. an ".exe" file) used to run the application. 
 Where the application can be run at depends on the extension of the executable file. If it is an ".exe" file, you can download it and then run it on your
 personal computer (PC).
